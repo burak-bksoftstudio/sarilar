@@ -1,0 +1,123 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "catalogs": "Catalogs",
+    "career": "Career",
+    "contact": "Contact",
+    "dealerLogin": "Dealer Login",
+    "onlinePayment": "Online Payment",
+    "search": "Search...",
+    "readMore": "Read More",
+    "viewDetails": "View Details",
+    "download": "Download",
+    "submit": "Submit",
+    "send": "Send",
+    "phone": "Phone",
+    "fax": "Fax",
+    "email": "Email",
+    "address": "Address",
+    "whatsapp": "WhatsApp",
+    "followUs": "Follow Us",
+    "quickLinks": "Quick Links",
+    "copyright": "All rights reserved.",
+    "allRightsReserved": "All Rights Reserved"
+  },
+  "hero": {
+    "slide1Title": "Adding Value to Your Spaces",
+    "slide1Subtitle": "We provide the best solutions for your projects with imported and domestic products",
+    "slide2Title": "Quality Products",
+    "slide2Subtitle": "Over 10,000 products in 20+ brands",
+    "slide3Title": "Professional Service",
+    "slide3Subtitle": "Your reliable partner in the construction industry",
+    "cta": "Explore Products"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "We offer products that will add value to your spaces",
+    "description": "At Sarılar, we always offer different products and solutions for your spaces, both imported and domestic. You can share any questions and suggestions about the construction industry with us.",
+    "corporate": "Corporate",
+    "ourStory": "Our Story",
+    "ourStoryText": "Sarılar Paint and Construction Materials has been serving as one of the leading companies in the construction sector in Samsun with years of experience and reliability.",
+    "ourValues": "Our Values",
+    "quality": "Quality",
+    "qualityDesc": "We offer products at the highest quality standards",
+    "trust": "Trust",
+    "trustDesc": "We build long-term relationships based on trust with our customers",
+    "innovation": "Innovation",
+    "innovationDesc": "We follow the latest trends and innovations in the industry"
+  },
+  "categories": {
+    "title": "Product Categories",
+    "subtitle": "We continuously renew our product and service policy to increase our strength and quality and provide good service to our customers.",
+    "granite": "Granite, Ceramic & Mosaic",
+    "vitrified": "Vitrified & Faucets",
+    "bathtub": "Bathtubs & Cabins",
+    "bathroom": "Bathroom Cabinets",
+    "parquet": "Parquet",
+    "paint": "Paint",
+    "plaster": "Plaster and Boards",
+    "profiles": "Plaster and Ceramic Profiles",
+    "chemicals": "Construction Chemicals",
+    "auxiliary": "Auxiliary Products"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "We offer you the right and economical solution at every stage of your business with over 10,000 products in 20 brands."
+  },
+  "cta": {
+    "title": "High Quality Products",
+    "subtitle": "We are constantly developing and renewing our quality policy to increase our strength and high quality and provide the best service to our customers.",
+    "projectsTitle": "We have solution partners that will add value to your projects",
+    "projectsDesc": "Our principle is to combine our strength and high quality policy with our solution partners and provide the best service to your projects through ourselves or our dealers, architects, interior architects and engineers."
+  },
+  "stats": {
+    "years": "Years of Experience",
+    "products": "Product Variety",
+    "brands": "Brands",
+    "customers": "Happy Customers"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us",
+    "getInTouch": "Get in Touch",
+    "formTitle": "Contact Form",
+    "name": "Your Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "subject": "Subject",
+    "message": "Your Message",
+    "sendMessage": "Send Message",
+    "success": "Your message has been sent successfully!",
+    "error": "An error occurred. Please try again.",
+    "companyName": "Sarılar Boya ve İnşaat Malz. San. Tic. Ltd. Şti",
+    "addressText": "100. Yıl Bulvarı 4/D Liman Kavşağı SAMSUN / TURKEY"
+  },
+  "career": {
+    "title": "Career",
+    "subtitle": "Join our team",
+    "description": "Would you like to join our dynamic team and pursue a career in the construction industry? Check our open positions and apply.",
+    "applyTitle": "Job Application",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "position": "Position Applied",
+    "cv": "Upload CV",
+    "message": "Introduce Yourself",
+    "apply": "Apply"
+  },
+  "catalogs": {
+    "title": "Catalogs",
+    "subtitle": "Download our product catalogs",
+    "downloadPdf": "Download PDF"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Explore our products by category",
+    "viewProducts": "View Products",
+    "brands": "Brands",
+    "gallery": "Product Gallery"
+  }
+}

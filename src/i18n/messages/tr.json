@@ -1,0 +1,123 @@
+{
+  "common": {
+    "home": "Anasayfa",
+    "about": "Kurumsal",
+    "products": "Ürünler",
+    "catalogs": "Kataloglar",
+    "career": "Kariyer",
+    "contact": "İletişim",
+    "dealerLogin": "Bayi Girişi",
+    "onlinePayment": "Online Ödeme",
+    "search": "Ara...",
+    "readMore": "Devamını Oku",
+    "viewDetails": "Detayları Gör",
+    "download": "İndir",
+    "submit": "Gönder",
+    "send": "Gönder",
+    "phone": "Telefon",
+    "fax": "Faks",
+    "email": "E-posta",
+    "address": "Adres",
+    "whatsapp": "WhatsApp",
+    "followUs": "Bizi Takip Edin",
+    "quickLinks": "Hızlı Linkler",
+    "copyright": "Tüm hakları saklıdır.",
+    "allRightsReserved": "Tüm Hakları Saklıdır"
+  },
+  "hero": {
+    "slide1Title": "Mekanlarınıza Değer Katıyoruz",
+    "slide1Subtitle": "İthal ve yerli ürünlerle projelerinize en iyi çözümleri sunuyoruz",
+    "slide2Title": "Kaliteli Ürünler",
+    "slide2Subtitle": "20+ markada 10.000 üzerinde ürün çeşitliliği",
+    "slide3Title": "Profesyonel Hizmet",
+    "slide3Subtitle": "Yapı sektöründe güvenilir çözüm ortağınız",
+    "cta": "Ürünleri Keşfet"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Mekanlarınıza değer katacak ürünler sunuyoruz",
+    "description": "Sarılar olarak, ithal ve yerli olmak üzere, mekanlarınıza daima farklı ürünler ve çözümler sunuyoruz. Yapı sektörüyle ilgili her çeşit soru ve önerilerinizi bizimle paylaşabilirsiniz.",
+    "corporate": "Kurumsal",
+    "ourStory": "Hikayemiz",
+    "ourStoryText": "Sarılar Boya ve İnşaat Malzemeleri, yılların deneyimi ve güvenilirliği ile Samsun'da yapı sektörünün öncü firmalarından biri olarak hizmet vermektedir.",
+    "ourValues": "Değerlerimiz",
+    "quality": "Kalite",
+    "qualityDesc": "En yüksek kalite standartlarında ürünler sunuyoruz",
+    "trust": "Güven",
+    "trustDesc": "Müşterilerimizle güvene dayalı uzun soluklu ilişkiler kuruyoruz",
+    "innovation": "Yenilikçilik",
+    "innovationDesc": "Sektördeki en son trendleri ve yenilikleri takip ediyoruz"
+  },
+  "categories": {
+    "title": "Ürün Kategorilerimiz",
+    "subtitle": "Gücümüzü ve kalitemizi artırıp, müşterilerimize iyi hizmet verebilmek için ürün ve hizmet politikamızı durmaksızın yenilemekteyiz.",
+    "granite": "Granit, Seramik & Mozaik",
+    "vitrified": "Vitrifiye & Armatür",
+    "bathtub": "Küvet & Kabinler",
+    "bathroom": "Banyo Dolapları",
+    "parquet": "Parke",
+    "paint": "Boya",
+    "plaster": "Alçı ve Levhalar",
+    "profiles": "Alçı ve Seramik Profilleri",
+    "chemicals": "Yapı Kimyasalları",
+    "auxiliary": "Yardımcı Ürünler"
+  },
+  "partners": {
+    "title": "Çözüm Ortaklarımız",
+    "subtitle": "20 markada 10.000 üzerinde ürün ile sizlere işinizin her aşamasında doğru ve ekonomik çözüm sunuyoruz."
+  },
+  "cta": {
+    "title": "Yüksek Kalitede Ürün",
+    "subtitle": "Gücümüzü ve yüksek kalitemizi artırıp, müşterilerimize en iyi hizmeti verebilmek için kalite politikamızı yenilemek ve aynı anda durmaksızın gelişmekteyiz.",
+    "projectsTitle": "Projelerinize değer katacak çözüm ortaklarımız var",
+    "projectsDesc": "Gücümüzü ve yüksek kalite politikamızı, çözüm ortaklarımızla birleştirip, kendimiz veya bayilerimiz, mimar, iç mimar ve mühendisler kanalıyla projelerinize en iyi hizmeti vermek ilkemizdir."
+  },
+  "stats": {
+    "years": "Yıllık Tecrübe",
+    "products": "Ürün Çeşidi",
+    "brands": "Marka",
+    "customers": "Mutlu Müşteri"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bizimle iletişime geçin",
+    "getInTouch": "Bize Ulaşın",
+    "formTitle": "İletişim Formu",
+    "name": "Adınız Soyadınız",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "address": "Adres",
+    "subject": "Konu",
+    "message": "Mesajınız",
+    "sendMessage": "Mesaj Gönder",
+    "success": "Mesajınız başarıyla gönderildi!",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "companyName": "Sarılar Boya ve İnşaat Malz. San. Tic. Ltd. Şti",
+    "addressText": "100. Yıl Bulvarı 4/D Liman Kavşağı SAMSUN / TÜRKİYE"
+  },
+  "career": {
+    "title": "Kariyer",
+    "subtitle": "Ekibimize katılın",
+    "description": "Dinamik ekibimize katılmak ve yapı sektöründe kariyer yapmak ister misiniz? Açık pozisyonlarımızı inceleyin ve başvurunuzu yapın.",
+    "applyTitle": "İş Başvurusu",
+    "fullName": "Ad Soyad",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "position": "Başvurulan Pozisyon",
+    "cv": "CV Yükle",
+    "message": "Kendinizi Tanıtın",
+    "apply": "Başvur"
+  },
+  "catalogs": {
+    "title": "Kataloglar",
+    "subtitle": "Ürün kataloglarımızı indirin",
+    "downloadPdf": "PDF İndir"
+  },
+  "products": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Kategorilere göre ürünlerimizi keşfedin",
+    "viewProducts": "Ürünleri Gör",
+    "brands": "Markalar",
+    "gallery": "Ürün Galerisi"
+  }
+}
