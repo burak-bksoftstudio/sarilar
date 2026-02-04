@@ -1,3 +1,9 @@
+export const dynamic = "force-static";
+
+export function generateStaticParams() {
+  return [{ locale: "tr" }, { locale: "en" }];
+}
+
 import HeroSlider from '@/components/home/HeroSlider';
 import AboutSection from '@/components/home/AboutSection';
 import CategoryGrid from '@/components/home/CategoryGrid';
