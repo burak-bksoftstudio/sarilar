@@ -1,3 +1,7 @@
+const createNextIntlPlugin = require('next-intl/plugin');
+
+const withNextIntl = createNextIntlPlugin();
+
 const nextConfig = {
   output: 'export',
   images: {
@@ -5,4 +9,4 @@ const nextConfig = {
   }
 }
 
-module.exports = nextConfig
+module.exports = withNextIntl(nextConfig)

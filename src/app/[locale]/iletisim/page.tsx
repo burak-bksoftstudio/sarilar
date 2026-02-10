@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Image from 'next/image';
 import { MapPin, Phone, Mail, Clock, MessageCircle } from 'lucide-react';
 import AnimatedSection from '@/components/ui/AnimatedSection';
@@ -22,6 +22,7 @@ interface ContactPageProps {
 
 export default async function ContactPage({ params }: ContactPageProps) {
   const { locale } = await params;
+  setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'contact' });
   const tCommon = await getTranslations({ locale, namespace: 'common' });
 

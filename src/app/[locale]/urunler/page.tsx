@@ -1,6 +1,5 @@
-export const dynamic = "force-dynamic";
 import { Metadata } from 'next';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Image from 'next/image';
 import Link from 'next/link';
 import { categories } from '@/lib/data/categories';
@@ -22,6 +21,7 @@ interface ProductsPageProps {
 
 export default async function ProductsPage({ params }: ProductsPageProps) {
   const { locale } = await params;
+  setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'products' });
 
   return (

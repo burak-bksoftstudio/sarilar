@@ -1,6 +1,5 @@
-export const dynamic = "force-dynamic";
 import { Metadata } from 'next';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Image from 'next/image';
 import { Award, Shield, Lightbulb } from 'lucide-react';
 import AnimatedSection from '@/components/ui/AnimatedSection';
@@ -23,6 +22,7 @@ interface AboutPageProps {
 
 export default async function AboutPage({ params }: AboutPageProps) {
   const { locale } = await params;
+  setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'about' });
   const tStats = await getTranslations({ locale, namespace: 'stats' });
 

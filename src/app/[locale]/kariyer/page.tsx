@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Image from 'next/image';
 import { Users, Target, Heart } from 'lucide-react';
 import AnimatedSection from '@/components/ui/AnimatedSection';
@@ -21,6 +21,7 @@ interface CareerPageProps {
 
 export default async function CareerPage({ params }: CareerPageProps) {
   const { locale } = await params;
+  setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'career' });
 
   const features = [
